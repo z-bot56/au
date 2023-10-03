@@ -6,15 +6,15 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6283897387848', '𝙱𝙶-𝙳𝙰𝚁𝚆𝙸𝙽', true],
+['6282223095204', 'z-sikecil', true],
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6283897387848'
+global.nomorwa = '6282223095204'
 global.packname = '© Sticker by'
-global.author = 'Dalwn Whatsapp'
-global.namebot = 'Win - MD'
+global.author = 'z sikecil'
+global.namebot = 'Z - MD'
 global.wm = '© WinTheBot Whatsapp'
 global.stickpack = '© Sticker by'
 global.stickauth = 'WinTheBot'
@@ -29,7 +29,7 @@ global.sgc = 'https://chat.whatsapp.com/Ksg1HJO2wSsEBUXUhulWun'
 
 global.psaweria = 'https://s.id/darwinofficial'
 global.ptrakterr = 'https://lynk.id/darwinofficial'
-global.povo = '083891170044'
+global.povo = '082223095204'
 // Info Wait
 global.wait = 'Loading...'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
